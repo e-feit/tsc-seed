@@ -16,7 +16,7 @@ export class Calculator {
      * @param a First number
      * @param b Second number
      */
-		public subtract(a: number, b: number): number {
+	public subtract(a: number, b: number): number {
 		return a - b;
 	}
 
