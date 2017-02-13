@@ -8,7 +8,7 @@ export class ScientificCalculator extends Calculator {
      * @param a First number
      * @param b Second number
      */
-    public exp(a: number, b: number): number {
-        return Math.pow(a, b);
-    }
+	public exp(a: number, b: number): number {
+		return Math.pow(a, b);
+	}
 }
